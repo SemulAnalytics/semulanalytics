@@ -87,7 +87,7 @@
 
 #### 8. Meta CAPI Event De-duplication (Browser + Server)
 <p align="center">
-  <img src="meta-dedup.jpg" alt="Meta CAPI De-duplication Proof" width="100%"/>
+  <img src="meta-dedup.png" alt="Meta CAPI De-duplication Proof" width="100%"/>
 </p>
 
 #### 9. Server-Side GTM Request Flow (Meta & GA4 Outgoing Requests)
