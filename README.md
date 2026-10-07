@@ -42,9 +42,48 @@
 
 ### 🚀 Advanced Tracking & Implementation Highlights
 
-- **Server-Side GTM & Meta Conversion API (CAPI):** Implemented server-side container via Stape.io with robust Event ID matching to successfully deduplicate browser and server events in Meta Events Manager[cite: 7, 11, 19].
+- **Server-Side GTM & Meta Conversion API (CAPI):** Implemented server-side container via Stape.io with robust Event ID matching to successfully deduplicate browser and server events in Meta Events Manager[cite: 7, 11].
 - **GA4 Enhanced E-Commerce & Google Ads:** Configured precise dataLayer parameters for purchase, add_to_cart, and view_item events alongside Google Ads Enhanced Conversions and Dynamic Remarketing[cite: 2, 3, 7, 14].
 - **Google Ads Offline Conversion Tracking (OCT):** Automated conversion data pipelines integrating Google Sheets with Google Ads using GCLID and hashed user data[cite: 4, 5].
+
+---
+
+### 📸 Technical Setup Proofs & Case Studies Gallery
+
+#### 1. Google Ads Offline Conversion Tracking (Qualified Lead Goal Setup)
+<p align="center">
+  <img src="Gads Qualified Lead Google ads account structure_2.png" alt="Google Ads Offline Conversion Setup" width="100%"/>
+</p>
+
+#### 2. Google Sheets Data Pipeline for Offline Conversions (GCLID & User Data Integration)
+<p align="center">
+  <img src="Google Sheets Problem Solving_2.png" alt="Google Sheets Pipeline" width="100%"/>
+</p>
+
+#### 3. GTM Custom Tags & GCLID Parameter Capture Preview
+<p align="center">
+  <img src="GTM Preview_2.png" alt="GTM GCLID Preview" width="100%"/>
+</p>
+
+#### 4. Meta CAPI Event De-duplication (Browser + Server)
+<p align="center">
+  <img src="Meta Deta Set De-duplication_2.jpg" alt="Meta CAPI De-duplication Proof" width="100%"/>
+</p>
+
+#### 5. GTM Debug View: GA4 & Meta Purchase Tags Firing
+<p align="center">
+  <img src="Google Ads Daynamic Remarketing Tag_2.png" alt="GTM Debug View" width="100%"/>
+</p>
+
+#### 6. Google Ads Conversion & Primary Goal Optimization Setup
+<p align="center">
+  <img src="GADS Purchase Goal_2.png" alt="Google Ads Conversion Goal" width="100%"/>
+</p>
+
+#### 7. GA4 Enhanced E-Commerce Purchase Payload Verification
+<p align="center">
+  <img src="GA4- Purchase_2.png" alt="GA4 Purchase Payload" width="100%"/>
+</p>
 
 ---
 
